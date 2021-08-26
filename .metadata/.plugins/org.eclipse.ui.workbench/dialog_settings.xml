@@ -7,4 +7,6 @@
 			<item value="org.eclipse.oomph"/>
 		</list>
 	</section>
+	<section name="ImportExportAction">
+	</section>
 </section>
